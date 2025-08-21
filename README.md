@@ -7,7 +7,7 @@ https://courses.skillsbuild.skillsnetwork.site/certificates/36148cd57f584b098632
 
 Agile Explorer
 
-Authenticity of this certificate can be validated by going to:
+Authenticity of this certificate can be validated by going to: 
 https://www.credly.com/badges/cd2f7c03-b237-4a6d-bf9e-5342c24cdbae
 
 SQL and Relational Databases 101
